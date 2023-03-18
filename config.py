@@ -1,16 +1,16 @@
 # To get values from Environment (True/False)
-Get_ENV = False
+Get_ENV = True
 
 # Required if Get_ENV == False
 Vars = [
     # Bot API Token
-    "5134632494:AAFHnHdLQ_LDkswFZpzXAlwU1sTDZqhwP5Y",
+    "",
     # GdToT Crypt
     "",
     # Laravel Session
-    "eyJpdiI6IkdsWjliYThcL1wvc2xrcFhVckF5MjJkZz09IiwidmFsdWUiOiJVRldmV0xcL292M2JiQTBEVytpQ2lTXC8rWXJwXC8zUVhYekRlSXAra0tiYUg4emxPVVlRK01aZFQwMUo4QkprajVjIiwibWFjIjoiN2ZhYTBkYmI5M2I2MmVjOWFlMTUwZDQ5MzM1YTRmODQ3YWM4MDE2ZGJmYzUyOGE4OWRjOTJiMGI1ZThlMDA3MiJ9",
+    "",
     # XSRF_TOKEN 
-    "eyJpdiI6IitqMVlIWndWMFV6ZGl1bnBNQzRrNWc9PSIsInZhbHVlIjoiUUVibkE3eUVjbSszbWJJTGNRK1NLZnZxVTZPNHRrc0c4cFliNmRqdXYzOTNoTUNEM20yNkI1TVpna1JyTGdqMCIsIm1hYyI6IjU1ODQ2Nzk5MzFkZjEzNzMyMjE5NjMxOGE4ODdjMDMxNmQzY2IzYjlkYjYzOTFhMDVjOTU2YWRlYTdiNmNkZGEifQ%3D%3D",
+    "",
     # KOLOP_CRYPT
     "",
     # DRIVEFIRE_CRYPT
@@ -29,9 +29,9 @@ Vars = [
 
 Creds = [
     # AppDrive/DriveApp Email ID
-    "dnjdnfjrjf837@gmail.com",
+    "",
     # AppDrive/DriveApp Password
-    "vikash@78827"
+    ""
 ]
 
 APIs = [
