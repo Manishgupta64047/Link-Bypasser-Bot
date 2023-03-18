@@ -8,7 +8,7 @@ Vars = [
     # GdToT Crypt
     "",
     # Laravel Session
-    "[
+    " [
     {
         "domain": ".sharer.pw",
         "expirationDate": 1679125956,
@@ -87,7 +87,7 @@ Vars = [
         "storeId": null,
         "value": "eyJpdiI6IitqMVlIWndWMFV6ZGl1bnBNQzRrNWc9PSIsInZhbHVlIjoiUUVibkE3eUVjbSszbWJJTGNRK1NLZnZxVTZPNHRrc0c4cFliNmRqdXYzOTNoTUNEM20yNkI1TVpna1JyTGdqMCIsIm1hYyI6IjU1ODQ2Nzk5MzFkZjEzNzMyMjE5NjMxOGE4ODdjMDMxNmQzY2IzYjlkYjYzOTFhMDVjOTU2YWRlYTdiNmNkZGEifQ%3D%3D"
     }
-]",
+] ",
     # XSRF_TOKEN 
     "[
     {
