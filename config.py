@@ -8,9 +8,167 @@ Vars = [
     # GdToT Crypt
     "",
     # Laravel Session
-    "",
+    "[
+    {
+        "domain": ".sharer.pw",
+        "expirationDate": 1679125956,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gat_gtag_UA_201054089_1",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".sharer.pw",
+        "expirationDate": 1679127348.253246,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "__cf_bm",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "F9zvoulnher1pCWbq8C2KEBBjQeOq4x9rhtUr3qltME-1679125548-0-ARjdBxujnDq7228i/vU2uaaPu6JR1gjUNdatSgWwehDocJmphBjkQ5UgiMpHOqCXMh1zV4SvT5fhY/AwmE0AuphJgFLPC3VUbmd0lHOwPwKhj97iE60g2wASBDdZ1u60KA=="
+    },
+    {
+        "domain": ".sharer.pw",
+        "expirationDate": 1713685896.962123,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.2.102972025.1679125546"
+    },
+    {
+        "domain": ".sharer.pw",
+        "expirationDate": 1679212296,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.2.1192477937.1679125546"
+    },
+    {
+        "domain": "sharer.pw",
+        "expirationDate": 1680335502.696716,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "laravel_session",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6IkdsWjliYThcL1wvc2xrcFhVckF5MjJkZz09IiwidmFsdWUiOiJVRldmV0xcL292M2JiQTBEVytpQ2lTXC8rWXJwXC8zUVhYekRlSXAra0tiYUg4emxPVVlRK01aZFQwMUo4QkprajVjIiwibWFjIjoiN2ZhYTBkYmI5M2I2MmVjOWFlMTUwZDQ5MzM1YTRmODQ3YWM4MDE2ZGJmYzUyOGE4OWRjOTJiMGI1ZThlMDA3MiJ9"
+    },
+    {
+        "domain": "sharer.pw",
+        "expirationDate": 1680335502.696369,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6IitqMVlIWndWMFV6ZGl1bnBNQzRrNWc9PSIsInZhbHVlIjoiUUVibkE3eUVjbSszbWJJTGNRK1NLZnZxVTZPNHRrc0c4cFliNmRqdXYzOTNoTUNEM20yNkI1TVpna1JyTGdqMCIsIm1hYyI6IjU1ODQ2Nzk5MzFkZjEzNzMyMjE5NjMxOGE4ODdjMDMxNmQzY2IzYjlkYjYzOTFhMDVjOTU2YWRlYTdiNmNkZGEifQ%3D%3D"
+    }
+]",
     # XSRF_TOKEN 
-    "",
+    "[
+    {
+        "domain": ".sharer.pw",
+        "expirationDate": 1679125956,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gat_gtag_UA_201054089_1",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".sharer.pw",
+        "expirationDate": 1679127348.253246,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "__cf_bm",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "F9zvoulnher1pCWbq8C2KEBBjQeOq4x9rhtUr3qltME-1679125548-0-ARjdBxujnDq7228i/vU2uaaPu6JR1gjUNdatSgWwehDocJmphBjkQ5UgiMpHOqCXMh1zV4SvT5fhY/AwmE0AuphJgFLPC3VUbmd0lHOwPwKhj97iE60g2wASBDdZ1u60KA=="
+    },
+    {
+        "domain": ".sharer.pw",
+        "expirationDate": 1713685896.962123,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.2.102972025.1679125546"
+    },
+    {
+        "domain": ".sharer.pw",
+        "expirationDate": 1679212296,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_gid",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.2.1192477937.1679125546"
+    },
+    {
+        "domain": "sharer.pw",
+        "expirationDate": 1680335502.696716,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "laravel_session",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6IkdsWjliYThcL1wvc2xrcFhVckF5MjJkZz09IiwidmFsdWUiOiJVRldmV0xcL292M2JiQTBEVytpQ2lTXC8rWXJwXC8zUVhYekRlSXAra0tiYUg4emxPVVlRK01aZFQwMUo4QkprajVjIiwibWFjIjoiN2ZhYTBkYmI5M2I2MmVjOWFlMTUwZDQ5MzM1YTRmODQ3YWM4MDE2ZGJmYzUyOGE4OWRjOTJiMGI1ZThlMDA3MiJ9"
+    },
+    {
+        "domain": "sharer.pw",
+        "expirationDate": 1680335502.696369,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6IitqMVlIWndWMFV6ZGl1bnBNQzRrNWc9PSIsInZhbHVlIjoiUUVibkE3eUVjbSszbWJJTGNRK1NLZnZxVTZPNHRrc0c4cFliNmRqdXYzOTNoTUNEM20yNkI1TVpna1JyTGdqMCIsIm1hYyI6IjU1ODQ2Nzk5MzFkZjEzNzMyMjE5NjMxOGE4ODdjMDMxNmQzY2IzYjlkYjYzOTFhMDVjOTU2YWRlYTdiNmNkZGEifQ%3D%3D"
+    }
+]",
     # KOLOP_CRYPT
     "",
     # DRIVEFIRE_CRYPT
