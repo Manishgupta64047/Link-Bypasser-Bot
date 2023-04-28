@@ -120,9 +120,53 @@ elif Get_ENV == True:
     GDTot_Crypt = os.environ.get("Crypt","")
     Laravel_Session = os.environ.get("Laravel_Session","")
     XSRF_TOKEN = os.environ.get("XSRF_TOKEN","")
-    KCRYPT = os.environ.get("KOLOP_CRYPT","")
+    KCRYPT = os.environ.get("KOLOP_CRYPT","from re import match as rematch, findall, sub as resub
+
+import requests
+
+from requests import get as rget
+
+import base64
+
+from urllib.parse import unquote, urlparse, parse_qs, quote
+
+import time
+
+import cloudscraper
+
+from bs4 import BeautifulSoup, NavigableString, Tag
+
+from lxml import etree
+
+import hashlib
+
+import json
+
+from dotenv import load_dotenv
+
+load_dotenv()
+
+from asyncio import sleep as asleep
+
+import os
+
+import ddl
+
+##########################################################
+
+# ENVs
+
+GDTot_Crypt = os.environ.get("CRYPT","b0lDek5LSCt6ZjVRR2EwZnY4T1EvVndqeDRtbCtTWmMwcGNuKy8wYWpDaz0%3D")
+
+Laravel_Session = os.environ.get("Laravel_Session","")
+
+XSRF_TOKEN = os.environ.get("XSRF_TOKEN","")
+
+DCRYPT = os.environ.get("DRIVEFIRE_CRYPT","")
+
+KCRYPT = os.environ.get("KOLOP_CRYPT","aWFicnVaNWh4TThRbzFqdkE2U2FKNmJOTWhvWkZmbWswaUFadTB5NXJ3RT0%3D")
     DCRYPT = os.environ.get("DRIVEFIRE_CRYPT","")
-    HCRYPT = os.environ.get("HUBDRIVE_CRYPT","")
+    HCRYPT = os.environ.get("HUBDRIVE_CRYPT","Q29hdlpLUEZTSEJLUjVZRkZQSExLODFuWGVudUlNK0ZPZlZmS1hENWxZVT0")
     KATCRYPT = os.environ.get("KATDRIVE_CRYPT","")
     UPTOBOX = os.environ.get("UPTOBOX_TOKEN","")
     AD_EMAIL = os.environ.get("AD_EMAIL","")
